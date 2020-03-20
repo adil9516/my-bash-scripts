@@ -1,0 +1,13 @@
+#!/bin/bash
+
+x=$1
+y=$2
+result=$((x+y))
+cmd_line_args=$#
+if [ $cmd_line_args -eq 2 ]
+then
+  echo "sum is $result"
+else
+ echo "Give only two numbers"
+fi
+
