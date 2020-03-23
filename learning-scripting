@@ -43,4 +43,4 @@ $firefox(any browser) http://www.your-link.com
  $ groupadd groupname
 ---------------------------------------------------------------------------
 # To give permissions to users, edit the "visudo" file
-
+# To talk with other users , use commands "users(list out users)", "wall(broadcast message to all users)" and "write user-name(perosnal message to a specific user)"
