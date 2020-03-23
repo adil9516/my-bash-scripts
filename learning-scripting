@@ -41,5 +41,6 @@ $firefox(any browser) http://www.your-link.com
  $ passwd username
   # type password 2 times to fix.
  $ groupadd groupname
+---------------------------------------------------------------------------
+# To give permissions to users, edit the "visudo" file
 
-#
